@@ -8,3 +8,15 @@
 .shadow-box{
 box-shadow: 0px 7px 50px 0px rgba(0, 0, 0, 0.06);
 }
+
+
+/* Rectangle 345 */
+
+position: absolute;
+width: 267px;
+height: 391px;
+left: 230px;
+top: 937.86px;
+
+background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+border-radius: 10px;
